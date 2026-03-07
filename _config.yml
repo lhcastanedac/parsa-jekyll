@@ -15,9 +15,9 @@ menu:
   - name: Home
     url: https://lhcastanedac.github.io/parsa-jekyll/
   - name: About
-    url: /about/
+    url: https://lhcastanedac.github.io/parsa-jekyll/about/
   - name: Contact
-    url: /contact/
+    url: https://lhcastanedac.github.io/parsa-jekyll/contact/
 
 # *** NOTE ***
 # You can add submenus. For example:
