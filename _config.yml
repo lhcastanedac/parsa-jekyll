@@ -13,7 +13,7 @@ preloader: true # To disable preloader change value to false
 
 menu:
   - name: Home
-    url: /
+    url: https://lhcastanedac.github.io/parsa-jekyll/
   - name: About
     url: /about/
   - name: Contact
