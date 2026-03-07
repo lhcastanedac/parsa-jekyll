@@ -18,6 +18,8 @@ menu:
     url: https://lhcastanedac.github.io/parsa-jekyll/about/
   - name: Contact
     url: https://lhcastanedac.github.io/parsa-jekyll/contact/
+  - name: Blog
+    url: https://lhcastanedac.github.io/parsa-jekyll/blog/
 
 # *** NOTE ***
 # You can add submenus. For example:
